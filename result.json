@@ -1,0 +1,62 @@
+[
+    {
+        "facebook": "zynga",
+        "twitter": "zynga"
+    },
+    {
+        "facebook": "nextdoor",
+        "google": "id=com.nextdoor",
+        "twitter": "nextdoor"
+    },
+    {
+        "google": "id=com.loudtalks",
+        "ios": "508231856",
+        "twitter": "Zello"
+    },
+    {
+        "facebook": "Spoonrocket",
+        "twitter": "SpoonRocket"
+    },
+    {
+        "facebook": "bluesmartlabs",
+        "google": "id=com.bluesmart.bluesmart",
+        "twitter": "bluesmart"
+    },
+    {
+        "facebook": "brightnetwork.co.uk",
+        "twitter": "brightnetwork"
+    },
+    {
+        "facebook": "getcleanly",
+        "ios": "820998720",
+        "twitter": "cleanly"
+    },
+    {
+        "facebook": "Cribspot"
+    },
+    {
+        "facebook": "dealyze",
+        "twitter": "dealyze"
+    },
+    {
+        "twitter": "directmatchx"
+    },
+    {
+        "twitter": "dronebase"
+    },
+    {
+        "facebook": "equipmentshare",
+        "twitter": "equipmentshare"
+    },
+    {
+        "facebook": "gitlab",
+        "twitter": "gitlab"
+    },
+    {
+        "facebook": "giveffect",
+        "twitter": "giveffect"
+    },
+    {
+        "twitter": "groupahead"
+    }
+]

@@ -1,6 +1,8 @@
 # Handle-Retriever
 Retrieves handles (Facebook, Twitter, iOS App, Google Play Store App) from a webpage given a csv of URLs and returns the handles in a JSON string.
 
+To run enter "python3 main.py" on the command line with appropriate input url csv.
+
 Input: input_urls.csv
 Output: result.json
 
